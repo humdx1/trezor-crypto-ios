@@ -1,0 +1,1 @@
+../../../trezor-crypto/aes/aesopt.h

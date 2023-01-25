@@ -1,0 +1,1 @@
+../../../trezor-crypto/chacha20poly1305/chacha_merged.c

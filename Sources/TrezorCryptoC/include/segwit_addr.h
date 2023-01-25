@@ -1,0 +1,1 @@
+../../../trezor-crypto/segwit_addr.h

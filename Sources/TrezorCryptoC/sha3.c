@@ -1,0 +1,1 @@
+../../trezor-crypto/sha3.c

@@ -1,0 +1,1 @@
+../../trezor-crypto/sha2.c

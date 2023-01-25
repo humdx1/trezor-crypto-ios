@@ -1,0 +1,1 @@
+../../../trezor-crypto/bip39.h

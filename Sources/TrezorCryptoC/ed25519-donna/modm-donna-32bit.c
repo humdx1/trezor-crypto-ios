@@ -1,0 +1,1 @@
+../../../trezor-crypto/ed25519-donna/modm-donna-32bit.c
